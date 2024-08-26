@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LM2596_Buck_Converter.PrjPcb]
+   Generated File[LM2596.TXT]
+   Generated File[LM2596.LDP]
+   Generated File[LM2596.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:59:09 On 26.08.2024
